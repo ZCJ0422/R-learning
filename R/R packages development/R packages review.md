@@ -23,3 +23,5 @@
 * `document()`
 * `test()`
 * `check()`
+
+[YuLab-SMU/doc](https://github.com/YuLab-SMU/docs/blob/master/r-package-dev.md)

@@ -1,5 +1,6 @@
 # https://zhuanlan.zhihu.com/p/358783073
 # https://github.com/xiangpin/eclust
+# https://kasperdanielhansen.github.io/genbioconductor/html/R_S4.html
 # setClass, setGeneric, setMethod, new
 help("setClass")
 
